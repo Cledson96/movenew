@@ -138,7 +138,7 @@ console.log(data)
       </div>
 
       <div class="whatsapp-fixo">
-        <a href="https://api.whatsapp.com/send?phone=5541996759390" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=5541996759390" rel="noreferrer" target="_blank">
           <img src="images/icons-whats.png" alt="Fale Conosco pelo WhatsApp" />
         </a>
       </div>
